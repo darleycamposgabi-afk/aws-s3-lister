@@ -21,4 +21,3 @@ def listar_buckets():
 
 if __name__ == "__main__":
     listar_buckets()
-    
